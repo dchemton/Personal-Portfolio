@@ -18,7 +18,7 @@ Key Features:
 
 Getting Started:
 
-To explore my portfolio website, simply visit the following link: https://siddhu8428.github.io/Personal-portfolio/
+To explore my portfolio website, simply visit the following link: https://dchemton.github.io/Personal-Portfolio/
 
 Technologies Used:
 
